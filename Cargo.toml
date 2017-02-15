@@ -1,0 +1,6 @@
+[package]
+name = "battlebot"
+version = "0.1.0"
+authors = ["Russell Leggett <russ@taggartsoftware.com>"]
+
+[dependencies]
