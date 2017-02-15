@@ -1,0 +1,1 @@
+This repository is an attempt to cleanly build and organize all of the code needed to drive our battlebot. In particular, it includes all of the code for the arduino running on the robot, the arduino connected to the computer, and the computer control code. It is an attempt to build a control system from scratch using RF transceivers and a gamepad.
